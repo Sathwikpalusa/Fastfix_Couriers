@@ -1,14 +1,13 @@
-streamlit==1.32.0
+streamlit
 
-langchain==0.2.14
-langchain-community==0.2.12
-langchain-core==0.2.35
-langchain-text-splitters==0.2.2
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
 
-faiss-cpu==1.7.4
+faiss-cpu
 
-pypdf==4.2.0
+pypdf
+python-dotenv
 
-python-dotenv==1.0.1
-
-ollama==0.3.3
+ollama
